@@ -40,7 +40,8 @@ Looking to collaborate on data engineering projects, discuss machine learning, o
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <i>"The goal is to turn data into information, and information into insight."</i><br>
+  — Carly Fiorina
   <br><br>
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=itz-QUiNN&icon=0&color=0" alt="Visitor Count" />
